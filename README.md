@@ -1,0 +1,2 @@
+# Polynomial-Solver
+A linked allocation system to represent and manipulate polynomials. Each term of the polynomial will be represented as a node, using its coefficient and exponent. Assume that you have 3 available polynomial variables: A, B and C, which can be set by the user and one variable R that acts as an accumulator for the results of operations on other polynomials. The polynomial terms are in descending order by the exponent. A polynomial can have a negative exponent.
